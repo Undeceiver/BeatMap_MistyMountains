@@ -1,0 +1,51 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "Far Over the Misty Mountains Cold",
+    "subTitle" : "",
+    "author" : "Richard Armitage and The Dwarf Cast"
+  },
+  "audio" : {
+    "songFilename" : "song.ogg",
+    "songDuration" : 103.024,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 53,
+    "lufs" : 0,
+    "previewStartTime" : 23,
+    "previewDuration" : 10
+  },
+  "songPreviewFilename" : "song.ogg",
+  "coverImageFilename" : "cover.jpg",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 10,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "ExpertPlusStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}
