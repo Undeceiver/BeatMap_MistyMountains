@@ -1,0 +1,53 @@
+{
+  "name" : "ChroMapper",
+  "characteristic" : "Standard",
+  "difficulty" : "Easy",
+  "color" : "00FFFF",
+  "bookmarks" : [
+    {
+      "beat" : 0,
+      "label" : "Very start",
+      "text" : "Very start"
+    },
+    {
+      "beat" : 21,
+      "label" : "Far over the misty mountains cold",
+      "text" : "Far over the misty mountains cold"
+    },
+    {
+      "beat" : 28,
+      "label" : "To dungeons deep and caverns old",
+      "text" : "To dungeons deep and caverns old"
+    },
+    {
+      "beat" : 36.5,
+      "label" : "We must away, ere break of day",
+      "text" : "We must away, ere break of day"
+    },
+    {
+      "beat" : 44.5,
+      "label" : "To find our long forgotten gold",
+      "text" : "To find our long forgotten gold"
+    },
+    {
+      "beat" : 52.5,
+      "label" : "The pines were roaring on the heights",
+      "text" : "The pines were roaring on the heights"
+    },
+    {
+      "beat" : 60.5,
+      "label" : "The winds were moaning in the night",
+      "text" : "The winds were moaning in the night"
+    },
+    {
+      "beat" : 68.5,
+      "label" : "The fire was red, it flaming spread",
+      "text" : "The fire was red, it flaming spread"
+    },
+    {
+      "beat" : 76.5,
+      "label" : "The trees like torches, blazed with light",
+      "text" : "The trees like torches, blazed with light"
+    }
+  ]
+}

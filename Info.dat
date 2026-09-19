@@ -24,6 +24,40 @@
   "difficultyBeatmaps" : [
     {
       "characteristic" : "Standard",
+      "difficulty" : "Easy",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 7,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "EasyStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    },
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "Hard",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 9,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "HardStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    },
+    {
+      "characteristic" : "Standard",
       "difficulty" : "ExpertPlus",
       "beatmapAuthors" : {
         "mappers" : [
